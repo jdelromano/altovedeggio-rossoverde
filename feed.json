@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AltoVedeggio RossoVerde",
+    "description": "",
+    "home_page_url": "https://jdelromano.github.io/altovedeggio-rossoverde",
+    "feed_url": "https://jdelromano.github.io/altovedeggio-rossoverde/feed.json",
+    "user_comment": "",
+    "icon": "https://jdelromano.github.io/altovedeggio-rossoverde/media/website/logo-1.jpg",
+    "author": {
+        "name": "José Del Romano"
+    },
+    "items": [
+        {
+            "id": "https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html",
+            "url": "https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html",
+            "title": "Il nuovo comitato si presenta",
+            "summary": "Ciao a tutti...",
+            "content_html": "<p>Ciao a tutti...</p>",
+            "author": {
+                "name": "José Del Romano"
+            },
+            "tags": [
+                   "Notizie"
+            ],
+            "date_published": "2023-06-20T16:01:43+02:00",
+            "date_modified": "2023-06-20T16:01:53+02:00"
+        },
+        {
+            "id": "https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html",
+            "url": "https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html",
+            "title": "Candidati 2024",
+            "summary": "Costant Ahrar José Del Romano ...",
+            "content_html": "<p>Costant Ahrar</p>\n<p>José Del Romano</p>\n<p>...</p>",
+            "author": {
+                "name": "José Del Romano"
+            },
+            "tags": [
+                   "Elezioni 2024"
+            ],
+            "date_published": "2023-06-20T16:01:00+02:00",
+            "date_modified": "2023-06-20T16:22:48+02:00"
+        }
+    ]
+}

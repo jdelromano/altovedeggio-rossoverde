@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jdelromano.github.io/altovedeggio-rossoverde/sitemap.xml

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AltoVedeggio RossoVerde</title>
+    <link href="https://jdelromano.github.io/altovedeggio-rossoverde/feed.xml" rel="self" />
+    <link href="https://jdelromano.github.io/altovedeggio-rossoverde" />
+    <updated>2023-06-20T16:22:48+02:00</updated>
+    <author>
+        <name>José Del Romano</name>
+    </author>
+    <id>https://jdelromano.github.io/altovedeggio-rossoverde</id>
+
+    <entry>
+        <title>Il nuovo comitato si presenta</title>
+        <author>
+            <name>José Del Romano</name>
+        </author>
+        <link href="https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html"/>
+        <id>https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html</id>
+            <category term="Notizie"/>
+
+        <updated>2023-06-20T16:01:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ciao a tutti...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ciao a tutti...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Candidati 2024</title>
+        <author>
+            <name>José Del Romano</name>
+        </author>
+        <link href="https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html"/>
+        <id>https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html</id>
+            <category term="Elezioni 2024"/>
+
+        <updated>2023-06-20T16:22:48+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Costant Ahrar José Del Romano ...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Costant Ahrar</p>
+<p>José Del Romano</p>
+<p>...</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

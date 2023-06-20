@@ -1,1 +1,0 @@
-# altovedeggio-rossoverde
