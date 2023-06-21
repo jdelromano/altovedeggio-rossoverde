@@ -1,21 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AltoVedeggio RossoVerde</title>
-    <link href="https://jdelromano.github.io/altovedeggio-rossoverde/feed.xml" rel="self" />
-    <link href="https://jdelromano.github.io/altovedeggio-rossoverde" />
-    <updated>2023-06-20T16:22:48+02:00</updated>
+    <link href="https://avrv.delromano.ch/feed.xml" rel="self" />
+    <link href="https://avrv.delromano.ch" />
+    <updated>2023-06-21T11:02:00+02:00</updated>
     <author>
         <name>José Del Romano</name>
     </author>
-    <id>https://jdelromano.github.io/altovedeggio-rossoverde</id>
+    <id>https://avrv.delromano.ch</id>
 
+    <entry>
+        <title>Scuole comunali e palestre</title>
+        <author>
+            <name>José Del Romano</name>
+        </author>
+        <link href="https://avrv.delromano.ch/scuole-comunali-e-palestre/"/>
+        <id>https://avrv.delromano.ch/scuole-comunali-e-palestre/</id>
+            <category term="Elezioni 2024"/>
+
+        <updated>2023-06-21T11:02:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                    istituto scolastico diffuso Asilo nido Palestra - sala multiuso
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>istituto scolastico diffuso</p>
+<ul>
+<li>favorire vita nei quartieri</li>
+<li>meno spostamenti in auto</li>
+</ul>
+<p>Asilo nido</p>
+<p>Palestra - sala multiuso</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mobilità lenta</title>
+        <author>
+            <name>José Del Romano</name>
+        </author>
+        <link href="https://avrv.delromano.ch/mobilita-lenta/"/>
+        <id>https://avrv.delromano.ch/mobilita-lenta/</id>
+            <category term="Elezioni 2024"/>
+
+        <updated>2023-06-21T10:58:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Biciclette strisce pedonali attraversamenti strada cantonale
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Biciclette</p>
+<p>strisce pedonali</p>
+<p>attraversamenti strada cantonale</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Il nuovo comitato si presenta</title>
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html"/>
-        <id>https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html</id>
+        <link href="https://avrv.delromano.ch/il-nuovo-comitato-si-presenta/"/>
+        <id>https://avrv.delromano.ch/il-nuovo-comitato-si-presenta/</id>
             <category term="Notizie"/>
 
         <updated>2023-06-20T16:01:53+02:00</updated>
@@ -35,8 +85,8 @@
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html"/>
-        <id>https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html</id>
+        <link href="https://avrv.delromano.ch/candidati-2024/"/>
+        <id>https://avrv.delromano.ch/candidati-2024/</id>
             <category term="Elezioni 2024"/>
 
         <updated>2023-06-20T16:22:48+02:00</updated>

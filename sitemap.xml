@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://jdelromano.github.io/altovedeggio-rossoverde/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://avrv.delromano.ch/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://jdelromano.github.io/altovedeggio-rossoverde/</loc>
+<loc>https://avrv.delromano.ch/</loc>
 </url>
 <url>
-<loc>https://jdelromano.github.io/altovedeggio-rossoverde/candidati-2024.html</loc>
+<loc>https://avrv.delromano.ch/candidati-2024/</loc>
 <lastmod>2023-06-20T16:22:48+02:00</lastmod>
 </url>
 <url>
-<loc>https://jdelromano.github.io/altovedeggio-rossoverde/chi-siamo.html</loc>
-<lastmod>2023-06-20T17:05:18+02:00</lastmod>
+<loc>https://avrv.delromano.ch/chi-siamo/</loc>
+<lastmod>2023-06-21T10:42:21+02:00</lastmod>
 </url>
 <url>
-<loc>https://jdelromano.github.io/altovedeggio-rossoverde/il-nuovo-comitato-si-presenta.html</loc>
+<loc>https://avrv.delromano.ch/il-nuovo-comitato-si-presenta/</loc>
 <lastmod>2023-06-20T16:01:53+02:00</lastmod>
+</url>
+<url>
+<loc>https://avrv.delromano.ch/mobilita-lenta/</loc>
+<lastmod>2023-06-21T10:58:17+02:00</lastmod>
+</url>
+<url>
+<loc>https://avrv.delromano.ch/scuole-comunali-e-palestre/</loc>
+<lastmod>2023-06-21T11:02:00+02:00</lastmod>
 </url>
 </urlset>
