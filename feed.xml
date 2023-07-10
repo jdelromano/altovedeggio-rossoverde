@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AltoVedeggio RossoVerde</title>
-    <link href="https://avrv.delromano.ch/feed.xml" rel="self" />
-    <link href="https://avrv.delromano.ch" />
+    <link href="https://www.altovedeggio-rossoverde.ch/feed.xml" rel="self" />
+    <link href="https://www.altovedeggio-rossoverde.ch" />
     <updated>2023-06-21T11:02:00+02:00</updated>
     <author>
         <name>José Del Romano</name>
     </author>
-    <id>https://avrv.delromano.ch</id>
+    <id>https://www.altovedeggio-rossoverde.ch</id>
 
     <entry>
         <title>Scuole comunali e palestre</title>
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://avrv.delromano.ch/scuole-comunali-e-palestre/"/>
-        <id>https://avrv.delromano.ch/scuole-comunali-e-palestre/</id>
+        <link href="https://www.altovedeggio-rossoverde.ch/scuole-comunali-e-palestre/"/>
+        <id>https://www.altovedeggio-rossoverde.ch/scuole-comunali-e-palestre/</id>
             <category term="Elezioni 2024"/>
 
         <updated>2023-06-21T11:02:00+02:00</updated>
@@ -41,8 +41,8 @@
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://avrv.delromano.ch/mobilita-lenta/"/>
-        <id>https://avrv.delromano.ch/mobilita-lenta/</id>
+        <link href="https://www.altovedeggio-rossoverde.ch/mobilita-lenta/"/>
+        <id>https://www.altovedeggio-rossoverde.ch/mobilita-lenta/</id>
             <category term="Elezioni 2024"/>
 
         <updated>2023-06-21T10:58:17+02:00</updated>
@@ -64,8 +64,8 @@
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://avrv.delromano.ch/il-nuovo-comitato-si-presenta/"/>
-        <id>https://avrv.delromano.ch/il-nuovo-comitato-si-presenta/</id>
+        <link href="https://www.altovedeggio-rossoverde.ch/il-nuovo-comitato-si-presenta/"/>
+        <id>https://www.altovedeggio-rossoverde.ch/il-nuovo-comitato-si-presenta/</id>
             <category term="Notizie"/>
 
         <updated>2023-06-20T16:01:53+02:00</updated>
@@ -85,8 +85,8 @@
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://avrv.delromano.ch/candidati-2024/"/>
-        <id>https://avrv.delromano.ch/candidati-2024/</id>
+        <link href="https://www.altovedeggio-rossoverde.ch/candidati-2024/"/>
+        <id>https://www.altovedeggio-rossoverde.ch/candidati-2024/</id>
             <category term="Elezioni 2024"/>
 
         <updated>2023-06-20T16:22:48+02:00</updated>
