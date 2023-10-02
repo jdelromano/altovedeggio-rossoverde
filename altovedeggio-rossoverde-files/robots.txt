@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://avrv.delromano.ch/sitemap.xml
