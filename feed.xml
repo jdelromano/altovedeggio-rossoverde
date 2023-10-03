@@ -3,64 +3,61 @@
     <title>AltoVedeggio RossoVerde</title>
     <link href="https://avrv.delromano.ch/feed.xml" rel="self" />
     <link href="https://avrv.delromano.ch" />
-    <updated>2023-06-21T11:02:00+02:00</updated>
+    <updated>2023-10-03T01:39:55+02:00</updated>
     <author>
         <name>José Del Romano</name>
     </author>
     <id>https://avrv.delromano.ch</id>
 
     <entry>
-        <title>Scuole comunali e palestre</title>
+        <title>José Del Romano</title>
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://avrv.delromano.ch/scuole-comunali-e-palestre/"/>
-        <id>https://avrv.delromano.ch/scuole-comunali-e-palestre/</id>
-            <category term="Elezioni 2024"/>
+        <link href="https://avrv.delromano.ch/jose-del-romano/"/>
+        <id>https://avrv.delromano.ch/jose-del-romano/</id>
+            <category term="authorPage"/>
 
-        <updated>2023-06-21T11:02:00+02:00</updated>
+        <updated>2023-10-03T01:39:55+02:00</updated>
             <summary>
                 <![CDATA[
-                    istituto scolastico diffuso Asilo nido Palestra - sala multiuso
+                    È un piacere conoscervi
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>istituto scolastico diffuso</p>
-<ul>
-<li>favorire vita nei quartieri</li>
-<li>meno spostamenti in auto</li>
-</ul>
-<p>Asilo nido</p>
-<p>Palestra - sala multiuso</p>
+                <p>È un piacere conoscervi</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Mobilità lenta</title>
+        <title>Elezioni 2024</title>
         <author>
             <name>José Del Romano</name>
         </author>
-        <link href="https://avrv.delromano.ch/mobilita-lenta/"/>
-        <id>https://avrv.delromano.ch/mobilita-lenta/</id>
+        <link href="https://avrv.delromano.ch/elezioni-2024/"/>
+        <id>https://avrv.delromano.ch/elezioni-2024/</id>
+        <media:content url="https://avrv.delromano.ch/media/posts/8/brainstorming.jpg" medium="image" />
             <category term="Elezioni 2024"/>
 
-        <updated>2023-06-21T10:58:17+02:00</updated>
+        <updated>2023-10-02T20:11:29+02:00</updated>
             <summary>
                 <![CDATA[
-                    Biciclette strisce pedonali attraversamenti strada cantonale
+                        <img src="https://avrv.delromano.ch/media/posts/8/brainstorming.jpg" alt="" />
+                    In quanto gruppo politico di area progressista, il nostro obiettivo principale è quello di difendere gli interessi della gente comune. Abbiamo l'obbiettivo di rendere il nostro un comune attivo, in cui tutti possano vivere bene e che offra servizi efficienti. Negli ultimi mesi abbiamo lavorato&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Biciclette</p>
-<p>strisce pedonali</p>
-<p>attraversamenti strada cantonale</p>
+                    <p><img src="https://avrv.delromano.ch/media/posts/8/brainstorming.jpg" class="type:primaryImage" alt="" /></p>
+                <p>In quanto gruppo politico di area progressista, il nostro obiettivo principale è quello di difendere gli interessi della gente comune. Abbiamo l'obbiettivo di rendere il nostro un comune attivo, in cui tutti possano vivere bene e che offra servizi efficienti.</p>
+<p>Negli ultimi mesi abbiamo lavorato duramente per immaginare modi per migliorare la qualità della vita a Monteceneri. Vi invitiamo a unirvi a noi in questo viaggio e a contribuire anche con le vostre idee a rendere il nostro territorio un luogo ancora più bello e vivibile.</p>
+<p>Insieme, costruiamo un futuro più luminoso per Monteceneri.<br><br></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Il nuovo comitato si presenta</title>
+        <title>Ci presentiamo</title>
         <author>
             <name>José Del Romano</name>
         </author>
@@ -68,38 +65,21 @@
         <id>https://avrv.delromano.ch/il-nuovo-comitato-si-presenta/</id>
             <category term="Notizie"/>
 
-        <updated>2023-06-20T16:01:53+02:00</updated>
+        <updated>2023-10-02T17:41:25+02:00</updated>
             <summary>
                 <![CDATA[
-                    Ciao a tutti...
+                    Benvenuti a bordo, amici di AltoVedeggio RossoVerde! Il 31 maggio 2023 è stato eletto il nostro nuovo comitato, composto da Antonella Marazza, Giovanni Cappelli, Beatrice Lafranchi, Silvana Canepa e presieduto da José Del Romano. Siamo un gruppo di persone eterogeneo, ma ci accomuna la passione&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Ciao a tutti...</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Candidati 2024</title>
-        <author>
-            <name>José Del Romano</name>
-        </author>
-        <link href="https://avrv.delromano.ch/candidati-2024/"/>
-        <id>https://avrv.delromano.ch/candidati-2024/</id>
-            <category term="Elezioni 2024"/>
-
-        <updated>2023-06-20T16:22:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Costant Ahrar José Del Romano ...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Costant Ahrar</p>
-<p>José Del Romano</p>
-<p>...</p>
+                <p>Benvenuti a bordo, amici di AltoVedeggio RossoVerde!</p>
+<p>Il 31 maggio 2023 è stato eletto il nostro nuovo comitato, composto da Antonella Marazza, Giovanni Cappelli, Beatrice Lafranchi, Silvana Canepa e presieduto da José Del Romano. Siamo un gruppo di persone eterogeneo, ma ci accomuna la passione ardente per la salvaguardia della nostra terra e un occhio attento alla previsione delle necessità future.</p>
+<p>Crediamo fermamente che la politica degli investimenti del comune di Monteceneri possa essere pianificata in maniera più strutturata e lungimirante. Vogliamo che venga data una priorità maggiore alle scuole elementari, dato che gli edifici sono vecchi, inefficienti e sottodimensionati. Sarebbe bello che i bambini crescessero e rendessero vivo il loro quartiere, recandosi a scuola a piedi o in bicicletta in sicurezza, grazie a percorsi adibiti alla mobilità lenta. Non si tratta solo di costruire per il futuro, ma di costruire un futuro migliore, partendo dalle fondamenta: i nostri figli e la loro educazione.</p>
+<p>Parlando di futuro, nei prossimi anni verrà costruita una nuova uscita autostradale, facendo diventare Monteceneri uno dei comuni ticinesi con ben 2 svincoli. Questo sfruttamento del territorio e il conseguente inquinamento fonico e ambientale dovrà essere accompagnato da un’attenta pianificazione territoriale. Speriamo di riuscire ad attrarre le giuste aziende: innovative e con posti di lavoro ad alto valore. Altrimenti si rischia di creare soltanto traffico aggiuntivo nel quartiere di Sigirino. Vogliamo anche dare un impulso maggiore al progetto PAV e coprire l’autostrada il più presto possibile.</p>
+<p>Ma non ci preoccupiamo solo dell'ambiente e dell'istruzione. Vogliamo anche dare più considerazione agli aspetti sociali: nella popolazione si avverte il bisogno di strutture ormai considerate basilari come un asilo nido aperto tutti i giorni; la soluzione attuale presso la Scola Vegia di Bironico, pur lodevole, non soddisfa più le esigenze attuali. Inoltre, in tutti i quartieri di Monteceneri, vorremmo luoghi pubblici, aperti e lontani dal traffico, che possano essere considerate “la piazza del paese” da tutti i cittadini.</p>
+<p>In vista della campagna per le elezioni comunali del 2024, saremmo contenti di poter discutere di queste e altre idee con chiunque sia interessato, senza barriere ideologiche e pronti al compromesso, con uno sguardo rivolto al sano pragmatismo. Abbiamo previsto di incontrarci pubblicamente ogni primo giovedì del mese, il luogo sarà comunicato sul nostro sito web www.altovedeggio-rossoverde.ch.</p>
+<p>Il comitato</p>
             ]]>
         </content>
     </entry>
