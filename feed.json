@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://avrv.delromano.ch/constant-nangbayade-aharh/",
+            "url": "https://avrv.delromano.ch/constant-nangbayade-aharh/",
+            "title": "Constant Nangbayadé Aharh",
+            "summary": "Municipale a Monteceneri Responsabile dei dicasteri - Socialità - Salute pubblica - Acqua potabile",
+            "content_html": "<h2>Municipale a Monteceneri</h2>\n<p>Responsabile dei dicasteri<br><br>- Socialità<br>- Salute pubblica<br>- Acqua potabile</p>",
+            "author": {
+                "name": "José Del Romano"
+            },
+            "tags": [
+                   "authorPage"
+            ],
+            "date_published": "2023-10-04T16:33:35+02:00",
+            "date_modified": "2023-10-04T16:35:05+02:00"
+        },
+        {
             "id": "https://avrv.delromano.ch/jose-del-romano/",
             "url": "https://avrv.delromano.ch/jose-del-romano/",
             "title": "José Del Romano",

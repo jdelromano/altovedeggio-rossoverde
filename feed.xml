@@ -3,12 +3,34 @@
     <title>AltoVedeggio RossoVerde</title>
     <link href="https://avrv.delromano.ch/feed.xml" rel="self" />
     <link href="https://avrv.delromano.ch" />
-    <updated>2023-10-03T17:08:16+02:00</updated>
+    <updated>2023-10-04T16:35:05+02:00</updated>
     <author>
         <name>José Del Romano</name>
     </author>
     <id>https://avrv.delromano.ch</id>
 
+    <entry>
+        <title>Constant Nangbayadé Aharh</title>
+        <author>
+            <name>José Del Romano</name>
+        </author>
+        <link href="https://avrv.delromano.ch/constant-nangbayade-aharh/"/>
+        <id>https://avrv.delromano.ch/constant-nangbayade-aharh/</id>
+            <category term="authorPage"/>
+
+        <updated>2023-10-04T16:35:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Municipale a Monteceneri Responsabile dei dicasteri - Socialità - Salute pubblica - Acqua potabile
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Municipale a Monteceneri</h2>
+<p>Responsabile dei dicasteri<br><br>- Socialità<br>- Salute pubblica<br>- Acqua potabile</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>José Del Romano</title>
         <author>
