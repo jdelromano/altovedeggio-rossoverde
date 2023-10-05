@@ -11,11 +11,26 @@
     },
     "items": [
         {
+            "id": "https://avrv.delromano.ch/retrospettiva-2020-2023/",
+            "url": "https://avrv.delromano.ch/retrospettiva-2020-2023/",
+            "title": "Retrospettiva 2021-2024",
+            "summary": "Breve commento sulla passata legislatura...",
+            "content_html": "<p>Breve commento sulla passata legislatura...</p>\n<p> </p>",
+            "author": {
+                "name": "José Del Romano"
+            },
+            "tags": [
+                   "Notizie"
+            ],
+            "date_published": "2023-10-05T14:47:30+02:00",
+            "date_modified": "2023-10-05T14:48:49+02:00"
+        },
+        {
             "id": "https://avrv.delromano.ch/constant-nangbayade-aharh/",
             "url": "https://avrv.delromano.ch/constant-nangbayade-aharh/",
             "title": "Constant Nangbayadé Aharh",
-            "summary": "Municipale a Monteceneri Responsabile dei dicasteri - Socialità - Salute pubblica - Acqua potabile",
-            "content_html": "<h2>Municipale a Monteceneri</h2>\n<p>Responsabile dei dicasteri<br><br>- Socialità<br>- Salute pubblica<br>- Acqua potabile</p>",
+            "summary": "Municipale a Monteceneri Dal 2022 responsabile dei dicasteri - Socialità - Salute pubblica - Acqua potabile",
+            "content_html": "<h2>Municipale a Monteceneri</h2>\n<p>Dal 2022 responsabile dei dicasteri<br><br>- Socialità<br>- Salute pubblica<br>- Acqua potabile</p>",
             "author": {
                 "name": "José Del Romano"
             },
@@ -23,7 +38,7 @@
                    "authorPage"
             ],
             "date_published": "2023-10-04T16:33:35+02:00",
-            "date_modified": "2023-10-04T16:35:05+02:00"
+            "date_modified": "2023-10-05T14:48:07+02:00"
         },
         {
             "id": "https://avrv.delromano.ch/jose-del-romano/",
