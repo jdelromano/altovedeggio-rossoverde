@@ -5,6 +5,14 @@
 <loc>https://avrv.delromano.ch/</loc>
 </url>
 <url>
+<loc>https://avrv.delromano.ch/castagnata-12-novembre/</loc>
+<lastmod>2023-10-17T15:03:49+02:00</lastmod>
+<image:image>
+<image:loc>https://avrv.delromano.ch/media/posts/13/231112-castagnata-manif.png</image:loc>
+<image:title><![CDATA[Volantino castagnata]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://avrv.delromano.ch/chi-siamo/</loc>
 <lastmod>2023-10-10T14:03:00+02:00</lastmod>
 </url>
@@ -43,5 +51,9 @@
 <url>
 <loc>https://avrv.delromano.ch/scuole-comunali-e-palestre/</loc>
 <lastmod>2023-10-02T17:42:28+02:00</lastmod>
+</url>
+<url>
+<loc>https://avrv.delromano.ch/sostienici/</loc>
+<lastmod>2023-10-17T14:44:45+02:00</lastmod>
 </url>
 </urlset>

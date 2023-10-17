@@ -3,12 +3,34 @@
     <title>AltoVedeggio RossoVerde</title>
     <link href="https://avrv.delromano.ch/feed.xml" rel="self" />
     <link href="https://avrv.delromano.ch" />
-    <updated>2023-10-10T16:45:07+02:00</updated>
+    <updated>2023-10-17T15:03:49+02:00</updated>
     <author>
         <name>José Del Romano</name>
     </author>
     <id>https://avrv.delromano.ch</id>
 
+    <entry>
+        <title>Castagnata 12 novembre</title>
+        <author>
+            <name>José Del Romano</name>
+        </author>
+        <link href="https://avrv.delromano.ch/castagnata-12-novembre/"/>
+        <id>https://avrv.delromano.ch/castagnata-12-novembre/</id>
+            <category term="Notizie"/>
+
+        <updated>2023-10-17T15:03:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Vi aspettiamo numerosi!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vi aspettiamo numerosi!</p>
+<figure class="post__image"><img loading="lazy"  src="https://avrv.delromano.ch/media/posts/13/231112-castagnata-manif.png" alt="Volantino castagnata" width="1135" height="1618" sizes="100vw" srcset="https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-xs.png 300w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-sm.png 480w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-md.png 768w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-lg.png 1024w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-xl.png 1360w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Retrospettiva 2021-2024</title>
         <author>

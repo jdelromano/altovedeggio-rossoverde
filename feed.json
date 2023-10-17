@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://avrv.delromano.ch/castagnata-12-novembre/",
+            "url": "https://avrv.delromano.ch/castagnata-12-novembre/",
+            "title": "Castagnata 12 novembre",
+            "summary": "Vi aspettiamo numerosi!",
+            "content_html": "<p>Vi aspettiamo numerosi!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://avrv.delromano.ch/media/posts/13/231112-castagnata-manif.png\" alt=\"Volantino castagnata\" width=\"1135\" height=\"1618\" sizes=\"100vw\" srcset=\"https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-xs.png 300w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-sm.png 480w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-md.png 768w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-lg.png 1024w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-xl.png 1360w ,https://avrv.delromano.ch/media/posts/13/responsive/231112-castagnata-manif-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "José Del Romano"
+            },
+            "tags": [
+                   "Notizie"
+            ],
+            "date_published": "2023-10-17T14:44:38+02:00",
+            "date_modified": "2023-10-17T15:03:49+02:00"
+        },
+        {
             "id": "https://avrv.delromano.ch/retrospettiva-2020-2023/",
             "url": "https://avrv.delromano.ch/retrospettiva-2020-2023/",
             "title": "Retrospettiva 2021-2024",
